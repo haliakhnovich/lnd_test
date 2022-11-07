@@ -65,7 +65,6 @@ public class PracticeFormTest {
                 text(StaticValues.currentAddress),
                 text(StaticValues.state + " " + StaticValues.city)
         );
-
         System.out.println("Student Registration Form. Test passed");
     }
 
